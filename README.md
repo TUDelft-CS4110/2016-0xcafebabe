@@ -4,6 +4,6 @@ MALWARE ANALYSIS
 
 
 Members:
-1. Pham (UTwente)
+1. Pham Duy Phuc (UTwente)
 2.
 3. 
