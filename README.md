@@ -12,7 +12,7 @@ MALWARE ANALYSIS
 [Malware Analysis](summary)
 
 ## Presentation
-[Presentation](presentation.pdf)
+[Slides](presentation.pdf)
 
 ## Lab Report
 [Report](labreport)
