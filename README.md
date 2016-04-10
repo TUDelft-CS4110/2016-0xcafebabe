@@ -10,3 +10,9 @@ MALWARE ANALYSIS
 
 ## Summary
 [Malware Analysis](summary)
+
+## Presentation
+[Presentation](presentation.pdf)
+
+## Lab Report
+[Report](labreport)
